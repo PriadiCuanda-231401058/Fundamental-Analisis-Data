@@ -1,0 +1,2 @@
+Dashboard Streamlit Cloud : https://bikesharingdashboardanalyst.streamlit.app/
+Repository GitHub : https://github.com/PriadiCuanda-231401058/Fundamental-Analisis-Data
